@@ -1,4 +1,4 @@
-This repo is a static fork of Clojure Koans
+*This repo is a static fork of Clojure Koans*
 
 # Clojure Koans
 
