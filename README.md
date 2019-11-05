@@ -1,3 +1,5 @@
+This repo is a static fork of Clojure Koans
+
 # Clojure Koans
 
 The Clojure Koans are a fun way to get started with Clojure - no experience
